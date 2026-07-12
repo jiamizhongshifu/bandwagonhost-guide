@@ -1,0 +1,12 @@
+title: 搬瓦工使用指南
+description: 搬瓦工 IP 更换、故障判断、套餐选择与 KiwiVM 操作指南
+lang: zh-CN
+url: https://jiamizhongshifu.github.io
+baseurl: /bandwagonhost-guide
+theme: minima
+plugins:
+  - jekyll-seo-tag
+sitemap: true
+header_pages:
+  - index.md
+
