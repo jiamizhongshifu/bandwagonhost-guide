@@ -5,8 +5,6 @@ description: 解释搬瓦工是否自动扣信用卡或 PayPal、续费账单时
 permalink: /articles/renewal-guide.html
 ---
 
-# 搬瓦工续费会自动扣款吗？账单、到期与续费周期
-
 根据搬瓦工官方知识库，搬瓦工不会自动从信用卡或 PayPal 扣款，也不保存用户的付款资料。所有外部付款都需要用户主动完成。
 
 ## Renewal ON 与 OFF 的区别

@@ -5,8 +5,6 @@ description: 2026 搬瓦工免费换 IP 权益说明，教你识别 E-Commerce S
 permalink: /articles/free-ip-change.html
 ---
 
-# 哪些搬瓦工套餐支持免费换 IP？购买前这样确认
-
 “搬瓦工已经彻底取消免费换 IP”是目前仍被大量转载的旧说法。2026-07-13 检查官网购物车时，部分 **E-Commerce SLA Elevated** 方案在 Networking & IP 中明确写有：`Free IP change once every 2 weeks`。
 
 ## 这不代表所有套餐都能免费换 IP

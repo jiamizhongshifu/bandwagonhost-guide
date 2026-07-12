@@ -5,8 +5,6 @@ description: 搬瓦工 ping 不通、SSH 超时时的逐步判断方法，避免
 permalink: /articles/ip-blocked-check.html
 ---
 
-# 搬瓦工 IP 被封了吗？先排除宕机、防火墙和 SSH 问题
-
 “SSH 超时”只能证明连接失败，不能单独证明 IP 被封。按下面顺序排查，能把问题缩小到本地网络、路由、端口、系统或 IP 层。
 
 ## 1. 先看控制面
