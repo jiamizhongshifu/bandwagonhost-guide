@@ -8,5 +8,10 @@ layout: null
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/ip-blocked-check.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/plan-selection.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/datacenter-migration.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/buy-guide.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/coupon-code.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/refund-policy.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/renewal-guide.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/bandwidth-limit.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/free-ip-change.html</loc></url>
 </urlset>
-
