@@ -14,4 +14,10 @@ layout: null
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/renewal-guide.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/bandwidth-limit.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/free-ip-change.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/kiwivm-guide.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/ssh-troubleshooting.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/os-reinstall.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/datacenter-selection.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/cn2-gia-comparison.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/out-of-stock.html</loc></url>
 </urlset>
