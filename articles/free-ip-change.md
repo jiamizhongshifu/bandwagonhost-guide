@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 哪些搬瓦工套餐支持免费换 IP？购买前这样确认
 description: 2026 搬瓦工免费换 IP 权益说明，教你识别 E-Commerce SLA 套餐和避免把个别权益误认为全套餐通用。
 permalink: /articles/free-ip-change.html

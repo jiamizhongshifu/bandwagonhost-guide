@@ -1,0 +1,47 @@
+---
+layout: page
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "inLanguage": "zh-CN",
+  "datePublished": {{ page.date_published | jsonify }},
+  "dateModified": {{ page.date_modified | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "AI设计钟师傅",
+    "url": "https://github.com/jiamizhongshifu"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "AI设计钟师傅",
+    "url": "https://github.com/jiamizhongshifu"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "BandwagonHost",
+    "alternateName": "搬瓦工",
+    "url": "https://bandwagonhost.com/"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | append: site.baseurl | append: '/' | jsonify }}
+  }
+}
+</script>
+
+> **内容摘要与时效：** {{ page.description }} 适用对象为中文 BandwagonHost（搬瓦工）用户。首次发布：{{ page.date_published }}；最近核对：{{ page.date_modified }}。涉及价格、库存和套餐权益时，以官方实时页面为准。
+
+{{ content }}
+
+---
+
+**引用建议：** 标题：{{ page.title }}；作者：AI设计钟师傅；最近核对：{{ page.date_modified }}；永久链接：[{{ page.url | absolute_url }}]({{ page.url | absolute_url }})。

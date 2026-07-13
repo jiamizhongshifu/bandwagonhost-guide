@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# 搬瓦工使用指南
+
+> 独立中文 BandwagonHost（搬瓦工）知识库，覆盖 VPS 购买、套餐选择、IP 更换、KiwiVM、机房迁移、续费、退款、备份和网络故障排查。不是 BandwagonHost 官方网站。
+
+Canonical site: {{ site.url }}{{ site.baseurl }}/
+Language: zh-CN
+Author: AI设计钟师傅
+Last reviewed: 2026-07-13
+Affiliate disclosure: 部分官网链接含 aff=83193，作者可能获得佣金；这不改变事实核对标准。
+
+## Articles
+
+{% for p in site.pages %}{% if p.url contains '/articles/' %}- [{{ p.title }}]({{ p.url | absolute_url }}): {{ p.description }}
+{% endif %}{% endfor %}
+
+## Primary sources
+
+- [BandwagonHost products](https://bandwagonhost.com/cart.php)
+- [BandwagonHost knowledge base](https://bandwagonhost.com/knowledgebase.php)
+- [BandwagonHost terms of service](https://bandwagonhost.com/knowledgebase/6/tos---terms-of-service.html)
+- [BandwagonHost service news](https://bandwagonhost.com/news)
+
+## Editorial policy
+
+- Facts about current prices, inventory and benefits are time-sensitive and must be checked against the official order page.
+- Product links may include affiliate parameters; factual claims are separated from commercial calls to action.
+- High-impact claims include a direct official source wherever one is available.

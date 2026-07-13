@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工迁移机房失败怎么办？黑名单与防火墙排查
 description: KiwiVM Datacenter Migration 无法使用时，检查 IP 黑名单、套餐权限、迁移状态与旧 iptables 规则。
 permalink: /articles/migration-failed.html

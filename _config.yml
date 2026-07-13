@@ -1,5 +1,8 @@
 title: 搬瓦工使用指南
 description: 搬瓦工 IP 更换、故障判断、套餐选择与 KiwiVM 操作指南
+author:
+  name: AI设计钟师傅
+  url: https://github.com/jiamizhongshifu
 lang: zh-CN
 url: https://jiamizhongshifu.github.io
 baseurl: /bandwagonhost-guide
@@ -9,4 +12,13 @@ plugins:
 sitemap: true
 header_pages:
   - index.md
-
+defaults:
+  - scope:
+      path: articles
+      type: pages
+    values:
+      layout: article
+      date_published: 2026-07-13
+      date_modified: 2026-07-13
+      entity_name: BandwagonHost
+      entity_alias: 搬瓦工

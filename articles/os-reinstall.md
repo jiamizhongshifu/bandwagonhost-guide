@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工怎么重装系统？KiwiVM 重装前后检查清单
 description: 搬瓦工 KiwiVM 重装 Linux 系统前如何备份，重装后如何恢复 SSH、防火墙、网站和监控。
 permalink: /articles/os-reinstall.html

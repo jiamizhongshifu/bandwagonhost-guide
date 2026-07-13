@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工 IP 被封了吗？先排除宕机、防火墙和 SSH 问题
 description: 搬瓦工 ping 不通、SSH 超时时的逐步判断方法，避免误付费更换 IP。
 permalink: /articles/ip-blocked-check.html

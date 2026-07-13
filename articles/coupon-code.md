@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工优惠码怎么用？结算前先看这 5 点
 description: 搬瓦工优惠码输入位置、折扣核对方法，以及优惠码无效时应该检查什么。
 permalink: /articles/coupon-code.html

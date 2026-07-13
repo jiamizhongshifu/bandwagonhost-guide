@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工支持 IPv6 吗？购买前检查方法
 description: 搬瓦工 IPv6 支持情况、购买前如何核对产品页，以及系统内 IPv6 无法使用时的排查步骤。
 permalink: /articles/ipv6-guide.html

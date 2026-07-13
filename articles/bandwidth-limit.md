@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工流量用完怎么办？会扣费还是停机？
 description: 搬瓦工 VPS 月流量耗尽后的处理方式、恢复时间、升级选择和流量异常排查。
 permalink: /articles/bandwidth-limit.html

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工切换机房会换 IP 吗？迁移前必须知道的事项
 description: 解释 KiwiVM 迁移机房与付费换 IP 的区别，以及迁移前后的备份、DNS 和防火墙检查。
 permalink: /articles/datacenter-migration.html

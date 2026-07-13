@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: KiwiVM 控制面板使用教程：重启、控制台、备份与迁移
 description: 搬瓦工 KiwiVM 控制面板入门，介绍重启、Interactive Console、系统重装、快照、备份、流量和机房迁移。
 permalink: /articles/kiwivm-guide.html

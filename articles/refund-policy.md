@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工可以退款吗？30 天退款条件与申请步骤
 description: 搬瓦工 30 天退款不是无条件退款，本文整理官方资格条件、申请入口和数据删除风险。
 permalink: /articles/refund-policy.html

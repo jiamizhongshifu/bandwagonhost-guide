@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工 CN2 GIA 和 GIA-E 有什么区别？
 description: 从产品名称、线路说明、机房、流量、迁移和价格比较搬瓦工 CN2 GIA 与 CN2 GIA E-Commerce。
 permalink: /articles/cn2-gia-comparison.html

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工官网是哪个？正确入口、镜像域名与账号安全
 description: 搬瓦工 BandwagonHost 官方网站、Client Area、KiwiVM 和购买入口辨别方法，避免进入仿冒页面。
 permalink: /articles/official-website.html

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: KiwiVM 怎么登录？三种密码不要混淆
 description: 搬瓦工 Client Area、KiwiVM 控制面板与 Linux root 三种登录方式和密码区别。
 permalink: /articles/kiwivm-login.html

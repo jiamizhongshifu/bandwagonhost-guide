@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工机房怎么选？延迟、线路与迁移决策
 description: 搬瓦工洛杉矶、日本、香港、新加坡等机房选择方法，避免只按城市或宣传线路判断速度。
 permalink: /articles/datacenter-selection.html

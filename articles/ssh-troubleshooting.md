@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工 SSH 连不上怎么办？超时与拒绝连接排查
 description: 搬瓦工 SSH timeout、connection refused、主机密钥变化等问题的逐步排查方法。
 permalink: /articles/ssh-troubleshooting.html

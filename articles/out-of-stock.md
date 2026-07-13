@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工套餐缺货怎么办？补货与替代方案判断
 description: 搬瓦工套餐显示缺货时如何确认官网库存、避免非官方代购，并选择合适的替代套餐。
 permalink: /articles/out-of-stock.html

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工备份与快照怎么用？别把平台备份当唯一副本
 description: 搬瓦工 KiwiVM 自动备份、快照与站外备份的区别，以及重装、迁移和退款前的恢复检查。
 permalink: /articles/backup-snapshot.html

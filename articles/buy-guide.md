@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工购买教程：注册、选套餐、付款与开通检查
 description: 2026 搬瓦工 VPS 购买流程，包含套餐选择、注册付款、KiwiVM 开通和购买前检查清单。
 permalink: /articles/buy-guide.html

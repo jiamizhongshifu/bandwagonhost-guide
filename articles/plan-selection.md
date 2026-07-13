@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工套餐怎么选：普通方案、CN2 GIA 与免费换 IP 权益
 description: 从预算、线路、机房迁移和免费换 IP 权益选择搬瓦工套餐，避免只看营销名称。
 permalink: /articles/plan-selection.html

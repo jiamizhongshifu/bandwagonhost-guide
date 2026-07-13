@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工更换 IP：付费换 IP 全流程 + 如何选对套餐
 description: 搬瓦工 IP 无法访问时如何判断、申请付费更换 IP，以及如何利用套餐权益降低反复换 IP 的成本。
 permalink: /articles/ip-change.html

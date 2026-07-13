@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工 IP 进入黑名单怎么办？换 IP、退款与迁移影响
 description: 搬瓦工 IP 被列入黑名单后的检测、清理、换 IP、退款资格和机房迁移限制。
 permalink: /articles/ip-blacklist.html

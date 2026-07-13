@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 搬瓦工续费会自动扣款吗？账单、到期与续费周期
 description: 解释搬瓦工是否自动扣信用卡或 PayPal、续费账单时间、暂停规则和修改付款周期方法。
 permalink: /articles/renewal-guide.html
