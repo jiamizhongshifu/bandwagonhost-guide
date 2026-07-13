@@ -20,4 +20,10 @@ layout: null
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/datacenter-selection.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/cn2-gia-comparison.html</loc></url>
   <url><loc>{{ site.url }}{{ site.baseurl }}/articles/out-of-stock.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/official-website.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/kiwivm-login.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/migration-failed.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/ip-blacklist.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/backup-snapshot.html</loc></url>
+  <url><loc>{{ site.url }}{{ site.baseurl }}/articles/ipv6-guide.html</loc></url>
 </urlset>
