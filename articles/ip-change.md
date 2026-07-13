@@ -58,7 +58,7 @@ permalink: /articles/ip-change.html
 
 但不要据此假设所有 CN2 GIA、香港、东京或普通套餐都有同样权益。购买前应在具体产品页的 **Networking & IP** 一栏确认；没有写明，就不要把它算进套餐价值。
 
-[查看当前在售套餐与实时权益](https://bandwagonhost.com/aff.php?aff=83193){: rel="nofollow sponsored" }
+[查看 CN2 GIA E-Commerce 20G 年付套餐与实时权益](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually){: rel="nofollow sponsored" }
 
 ## 四、如何选套餐，才能降低换 IP 的长期成本
 
@@ -103,4 +103,3 @@ permalink: /articles/ip-change.html
 - [切换机房是否会换 IP？](./datacenter-migration.html)
 
 最后核对：2026-07-13。官方依据：[Request IP Change](https://bandwagonhost.com/ipchange.php)、[当前购物车](https://bandwagonhost.com/cart.php)、[官方知识库](https://bandwagonhost.com/knowledgebase.php)。
-

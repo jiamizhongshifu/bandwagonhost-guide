@@ -24,11 +24,10 @@ permalink: /articles/cn2-gia-comparison.html
 
 需要机房迁移灵活性时，优先核对 E-Commerce 当前允许的地点；需要特定城市或更低基础延迟时，比较对应固定区域产品；预算敏感时，用真实晚高峰测试决定线路溢价是否值得。
 
-[查看搬瓦工 CN2 GIA 当前套餐](https://bandwagonhost.com/aff.php?aff=83193){: rel="nofollow sponsored" }
+[查看搬瓦工 CN2 GIA E-Commerce 20G 年付套餐](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually){: rel="nofollow sponsored" }
 
 > **联盟链接说明：** 套餐链接含 `aff=83193`，作者可能获得佣金。配置与价格以结算页为准。
 
 相关：[机房怎么选](./datacenter-selection.html) · [套餐选择](./plan-selection.html) · [哪些套餐免费换 IP](./free-ip-change.html)
 
 最后核对：2026-07-13。依据：[官方产品页](https://bandwagonhost.com/cart.php)。
-

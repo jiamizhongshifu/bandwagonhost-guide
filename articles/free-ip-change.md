@@ -13,7 +13,7 @@ permalink: /articles/free-ip-change.html
 
 购买前按这个顺序确认：
 
-1. 打开[搬瓦工实时产品页](https://bandwagonhost.com/aff.php?aff=83193){: rel="nofollow sponsored" }；
+1. 打开[支持相关权益的 E-Commerce 20G 年付产品页](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually){: rel="nofollow sponsored" }；
 2. 点进准备购买的具体方案；
 3. 找到 Networking & IP；
 4. 确认是否明确写有免费换 IP及时间间隔；

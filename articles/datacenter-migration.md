@@ -24,9 +24,8 @@ permalink: /articles/datacenter-migration.html
 
 如果你的目的只是处理疑似 IP 连通问题，不要先假设迁移一定可用或一定免费。先做[IP 被封判断](./ip-blocked-check.html)，再根据套餐权益选择迁移或[申请更换 IP](./ip-change.html)。
 
-[查看搬瓦工当前套餐及可用权益](https://bandwagonhost.com/aff.php?aff=83193){: rel="nofollow sponsored" }
+[查看支持多机房的 CN2 GIA E-Commerce 20G 年付套餐](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually){: rel="nofollow sponsored" }
 
 > **联盟链接说明：** 上述链接含推广参数，作者可能获得佣金。迁移规则以 KiwiVM 和官网实时页面为准。
 
 最后核对：2026-07-13。
-
